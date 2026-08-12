@@ -1,9 +1,9 @@
 # AML-Screening-Tool
 Python tool for AML screening: simple and multiple conditional forms, detection of matches against sanctions lists (exact and fuzzy matching), and detection of suspicious transaction patterns (structuring, unusual amounts) for SAR & STR.
+All Excel Data are fictitious
 
 # AML Screening Tool
-A personal project that simulates daily AML compliance tasks using a database and Python coding: screening customers against a sanctions list and
-detecting suspicious transactions.
+A personal project that simulates daily AML compliance tasks using a database and Python coding: screening customers against a sanctions list and detecting suspicious transactions.
 
 ## Features
 - Loading and cleaning customer data (pandas)
@@ -15,5 +15,5 @@ detecting suspicious transactions.
 Python, pandas, rapidfuzz, openpyxl
 
 ## Context
-Project undertaken to apply my Python skills to my experience in financial auditing and AML compliance within investment funds and private banking
+Project undertaken to apply my Python skills to my experience in AML compliance within Investment Funds and Private Banking
 
